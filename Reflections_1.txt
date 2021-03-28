@@ -1,0 +1,3 @@
+Wymagania funkcjonalne określają funkcjonalność tworzonego oprogramowania.
+
+Wymagania funkcjonalne mogą być podzielone na wymagania funkcjonalne, wymagania dotyczące zachowania systemu oraz wymagania dotyczące danych.

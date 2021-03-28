@@ -1,0 +1,5 @@
+TDD polega na wielokrotnym powtarzaniu kilku kroków:
+
+- Najpierw programista pisze automatyczny test sprawdzający dodawaną funkcjonalność. Test w tym momencie nie powinien się udać.
+- Później następuje implementacja funkcjonalności. W tym momencie wcześniej napisany test powinien się udać.
+- W ostatnim kroku programista dokonuje refaktoryzacji napisanego kodu, żeby spełniał on oczekiwane standardy.
